@@ -1,0 +1,19 @@
+.hero {
+  height: 100vh;
+  background: url("../img/back_img.jpg") no-repeat bottom center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 10vw;
+  color: white;
+
+  h1 {
+    position: relative;
+    font-size: 4rem;
+    text-transform: uppercase;
+    text-align: center;
+    background: rgba($color: #000000, $alpha: 0.2);
+    padding: 2rem;
+  }
+}
