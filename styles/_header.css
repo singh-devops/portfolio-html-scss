@@ -1,0 +1,1 @@
+.main-header{position:fixed;display:flex;justify-content:space-between;align-items:center;height:65px;width:100vw;padding:1 10vw;color:#000;z-index:1}.main-header a{text-decoration:none;color:inherit;text-transform:uppercase}.main-header .nav-links{display:flex;list-style:none}
