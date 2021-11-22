@@ -1,7 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
 @import "hero";
 @import "header";
-* {
+@import "media";
+@import "animations";
+
+*,
+*::before,
+*::after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
